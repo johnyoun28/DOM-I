@@ -13,6 +13,7 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 ## Instructions
 
 initial commit
+second commit
 
 ### Task 1: Set Up The Project With Git
 
